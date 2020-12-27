@@ -1,10 +1,10 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use CyberdelicDigital\AuthorizeNet\Transaction;
-use CyberdelicDigital\AuthorizeNet\TransactionDetails;
-use CyberdelicDigital\AuthorizeNet\Exceptions\InvalidPaymentDetailsException;
-use CyberdelicDigital\AuthorizeNet\Validator;
+use KeriganSolutions\AuthorizeNet\Transaction;
+use KeriganSolutions\AuthorizeNet\TransactionDetails;
+use KeriganSolutions\AuthorizeNet\Exceptions\InvalidPaymentDetailsException;
+use KeriganSolutions\AuthorizeNet\Validator;
 
 final class ValidationTest extends TestCase
 {

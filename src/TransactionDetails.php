@@ -1,5 +1,5 @@
 <?php
-namespace CyberdelicDigital\AuthorizeNet;
+namespace KeriganSolutions\AuthorizeNet;
 
 class TransactionDetails
 {

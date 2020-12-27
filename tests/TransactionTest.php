@@ -1,9 +1,9 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use CyberdelicDigital\AuthorizeNet\Transaction;
-use CyberdelicDigital\AuthorizeNet\TransactionDetails;
-use CyberdelicDigital\AuthorizeNet\Customer;
+use KeriganSolutions\AuthorizeNet\Transaction;
+use KeriganSolutions\AuthorizeNet\TransactionDetails;
+use KeriganSolutions\AuthorizeNet\Customer;
 
 final class TransactionTest extends TestCase
 {

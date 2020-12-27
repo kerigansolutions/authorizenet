@@ -61,7 +61,7 @@ For the following example, we'll use a simple JSON object consisting of only the
 ```
 
 ```php
-use CyberdelicDigital\AuthorizeNet\Transaction;
+use KeriganSolutions\AuthorizeNet\Transaction;
 
 public function chargeCard($details)
 {

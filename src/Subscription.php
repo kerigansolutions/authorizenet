@@ -1,5 +1,5 @@
 <?php
-namespace CyberdelicDigital\AuthorizeNet;
+namespace KeriganSolutions\AuthorizeNet;
 
 use net\authorize\api\contract\v1\PaymentType;
 use net\authorize\api\constants\ANetEnvironment;
@@ -8,12 +8,12 @@ use net\authorize\api\contract\v1\TransactionRequestType;
 use net\authorize\api\contract\v1\CreateTransactionRequest;
 use net\authorize\api\contract\v1\MerchantAuthenticationType;
 use net\authorize\api\controller\CreateTransactionController;
-use CyberdelicDigital\AuthorizeNet\Exceptions\NullResponseException;
-use CyberdelicDigital\AuthorizeNet\Exceptions\MissingCredentialsException;
-use CyberdelicDigital\AuthorizeNet\Exceptions\InvalidPaymentDetailsException;
+use KeriganSolutions\AuthorizeNet\Exceptions\NullResponseException;
+use KeriganSolutions\AuthorizeNet\Exceptions\MissingCredentialsException;
+use KeriganSolutions\AuthorizeNet\Exceptions\InvalidPaymentDetailsException;
 use net\authorize\api\contract\v1\CustomerAddressType;
 use net\authorize\api\contract\v1\CustomerDataType;
-use CyberdelicDigital\AuthorizeNet\Exceptions\InvalidTransactionException;
+use KeriganSolutions\AuthorizeNet\Exceptions\InvalidTransactionException;
 use net\authorize\api\contract\v1\ARBCreateSubscriptionRequest;
 use net\authorize\api\contract\v1\ARBSubscriptionType;
 use net\authorize\api\contract\v1\UserFieldType;

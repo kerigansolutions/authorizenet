@@ -1,6 +1,6 @@
 <?php
 
-namespace CyberdelicDigital\AuthorizeNet;
+namespace KeriganSolutions\AuthorizeNet;
 
 use net\authorize\api\contract\v1\CustomerAddressType;
 use net\authorize\api\contract\v1\CustomerDataType;

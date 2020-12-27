@@ -45,7 +45,7 @@ class ComposerStaticInit640f948a085ba77c1dc5374fd735f74a
         ),
         'C' => 
         array (
-            'CyberdelicDigital\\AuthorizeNet\\' => 31,
+            'KeriganSolutions\\AuthorizeNet\\' => 31,
         ),
     );
 
@@ -88,7 +88,7 @@ class ComposerStaticInit640f948a085ba77c1dc5374fd735f74a
         array (
             0 => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy',
         ),
-        'CyberdelicDigital\\AuthorizeNet\\' => 
+        'KeriganSolutions\\AuthorizeNet\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

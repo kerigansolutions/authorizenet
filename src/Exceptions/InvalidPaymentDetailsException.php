@@ -1,5 +1,5 @@
 <?php
-namespace CyberdelicDigital\AuthorizeNet\Exceptions;
+namespace KeriganSolutions\AuthorizeNet\Exceptions;
 
 class InvalidPaymentDetailsException extends \Exception
 {
