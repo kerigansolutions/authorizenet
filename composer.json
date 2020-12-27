@@ -1,5 +1,5 @@
 {
-    "name": "doomtickle/authorizenet",
+    "name": "kerigansolutions/authorizenet",
     "description": "authorize.net package for Kerigan Marketing Associates",
     "type": "library",
     "require": {
